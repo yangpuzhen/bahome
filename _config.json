@@ -1,0 +1,94 @@
+{
+  "title": "白泽的主页",
+  "description": "一个BA风格的个人主页",
+  "favicon": "/favicon144.png",
+  "author": "白泽",
+  "keywords": "蔚蓝档案,BA,个人主页",
+  "ICP": "",
+  "manifest": {
+    "name": "白泽的主页",
+    "short_name": "白泽的主页",
+    "description": "一个BA风格的个人主页",
+    "theme_color": "#128AFA",
+    "start_url": "/",
+    "id": "Homepage",
+    "icons": [
+      {
+        "src": "/favicon512.png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/favicon144.png",
+        "sizes": "144x144"
+      }
+    ]
+  },
+  "level": 75,
+  "exp": 114514,
+  "nextExp": 1919,
+  "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
+  "dock": [
+    {
+      "name": "cloudflare",
+      "href": "https://cloudflare.com/",
+      "imgSrc": "/img/cloudflare-01.png"
+    },
+    {
+      "name": "vercel",
+      "href": "https://vercel.com",
+      "imgSrc": "/img/logo-vercel.png"
+    },
+    {
+      "name": "编程速查清单",
+      "href": "https://docs.baize.host/",
+      "imgSrc": "/img/qingdan.png"
+    },
+    {
+      "name": "it-tools",
+      "href": "https://tool.baize.host/",
+      "imgSrc": "/img/tool.png"
+    },
+    {
+      "name": "聚合搜索",
+      "href": "https://search.baize.host/",
+      "imgSrc": "/img/search.png"
+    },
+    {
+      "name": "网址导航",
+      "href": "https://nav.baize.host/",
+      "imgSrc": "/img/daohang.png"
+    },
+    {
+      "name": "archlinuxwiki",
+      "href": "https://wiki.archlinux.org/",
+      "imgSrc": "/img/archlinux.png"
+    }
+  ],
+  "contact": [
+    {
+      "name": "QQ",
+      "href": "https://wpa.qq.com/msgrd?v=3&uin=1304668140&site=qq&menu=yes&jumpflag=1",
+      "iconfont": "icon-qq"
+    },
+    {
+      "name": "email",
+      "href": "mailto:admin@ipv6.email",
+      "imgSrc": "/img/email.png"
+    },
+    {
+      "name": "Github",
+      "href": "https://github.com/yanpuzhen",
+      "iconfont": "icon-github"
+    },
+    {
+      "name": "BiliBili",
+      "href": "https://space.bilibili.com/68016127",
+      "iconfont": "icon-bilibili"
+    }
+  ],
+  "task": {
+    "name": "个人博客",
+    "href": "https://blog.baize.host/"
+  }
+}
