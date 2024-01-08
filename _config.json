@@ -30,14 +30,14 @@
   "iconfont": "https://at.alicdn.com/t/c/font_4336463_0i6ly0yvyzb.js",
   "dock": [
     {
-      "name": "cloudflare",
-      "href": "https://cloudflare.com/",
-      "imgSrc": "/img/cloudflare-01.png"
+      "name": "ip工具箱",
+      "href": "https://iptools.baize.host/",
+      "imgSrc": "/img/network.png"
     },
     {
-      "name": "vercel",
-      "href": "https://vercel.com",
-      "imgSrc": "/img/logo-vercel.png"
+      "name": "知识库",
+      "href": "https://doc.baize.host/",
+      "imgSrc": "/img/book.png"
     },
     {
       "name": "编程速查清单",
